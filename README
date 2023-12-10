@@ -1,0 +1,22 @@
+
+1- git branch "Nom_de_la_branca" per crear-la i git fetch per actualitzar els canvis.
+
+5- git checkout main per tornar a la branca main, git log per veure l'historial.
+
+7- git checkout branca00.
+
+10b- git merge branca00 per vincular la branca main amb la branca00.
+
+12- git push -u origin main per pujar els commits al remot.
+
+14a- git push -u origin branca01.
+
+--RESPOSTES--
+
+6- No, perquè he cambiat de branca.
+
+7- Si, perquè he tornat a la branca00, on tenia el fitxer modificat.
+
+12c- Quan realitzes un merge en Git, els canvis d'una branca s'incorporen a una altra branca. Després d'un merge, els commits de la branca fusionada (en aquest cas, branca00) ara formen part de la branca en la qual has fet el merge (en aquest cas, main). No obstant això, això no significa que els commits estiguin automàticament a les dues branques.
+
+14c- 1 commit.
